@@ -15,7 +15,7 @@ define('SITE_DIR', '/Simple Website/');
 // database prefix if you use
 define('DB_PREFIX', 'mp_');
 
-define('DB_DRIVER', 'postgresql');
+define('DB_DRIVER', 'sql');
 define('DB_HOST', 'ec2-34-193-113-223.compute-1.amazonaws.com');
 define('port','5432');
 //define('dbname','d5hmnh8lkipqq6'),
