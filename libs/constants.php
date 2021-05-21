@@ -21,7 +21,7 @@ define('port','5432');
 define('dbname','d5hmnh8lkipqq6'),
 define('DB_HOST_USERNAME', 'gnmsdeujuozclz');
 define('DB_HOST_PASSWORD', '14cc6af541402fc35c18a4e3b7af16b70c51e4468131747c391c3f84ed36e018');
-define('DB_DATABASE', 'simple-website');
+//define('DB_DATABASE', 'simple-website');
 define('SITE_NAME', 'Simple Website');
 
 // define database tables
