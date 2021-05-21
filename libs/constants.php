@@ -15,7 +15,7 @@ define('SITE_DIR', '/sample-php-website/');
 // database prefix if you use
 define('DB_PREFIX', 'mp_');
 
-define('DB_DRIVER', 'd93o93c07vsmp5');
+define('DB_DRIVER', 'mysql');
 define('DB_HOST', 'ec2-35-170-85-206.compute-1.amazonaws.com');
 define('DB_HOST_USERNAME', 'ffxbgbrdudwwrc');
 define('DB_HOST_PASSWORD', 'dce41c0c5ceaa4458bfe68998867ca582a5952935c9be96aa7223455d5e8e7e8');
