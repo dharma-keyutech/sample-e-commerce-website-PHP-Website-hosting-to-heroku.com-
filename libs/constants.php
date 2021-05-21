@@ -16,9 +16,9 @@ define('SITE_DIR', '/sample-php-website/');
 define('DB_PREFIX', 'mp_');
 
 define('DB_DRIVER', 'mysql');
-define('DB_HOST', 'ec2-35-170-85-206.compute-1.amazonaws.com');
-define('DB_HOST_USERNAME', 'ffxbgbrdudwwrc');
-define('DB_HOST_PASSWORD', 'dce41c0c5ceaa4458bfe68998867ca582a5952935c9be96aa7223455d5e8e7e8');
+define('DB_HOST', 'ec2-34-193-113-223.compute-1.amazonaws.com');
+define('DB_HOST_USERNAME', 'gnmsdeujuozclz');
+define('DB_HOST_PASSWORD', '14cc6af541402fc35c18a4e3b7af16b70c51e4468131747c391c3f84ed36e018');
 define('DB_DATABASE', 'simple-website');
 define('SITE_NAME', 'Simple Website');
 
