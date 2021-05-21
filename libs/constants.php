@@ -8,14 +8,14 @@
  */
 
 // dont add a trailing / at the end
-define('HTTP_SERVER', 'http://127.0.0.1');
+define('HTTP_SERVER', 'http://localhost');
 // add slash / at the end
 define('SITE_DIR', '/sample-php-website/');
 
 // database prefix if you use
 define('DB_PREFIX', 'mp_');
 
-define('DB_DRIVER', 'mysql');
+define('DB_DRIVER', 'postgresql');
 define('DB_HOST', 'ec2-34-193-113-223.compute-1.amazonaws.com');
 define('port','5432');
 define('dbname','d5hmnh8lkipqq6'),
