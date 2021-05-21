@@ -10,7 +10,7 @@
 // dont add a trailing / at the end
 define('HTTP_SERVER', 'http://localhost');
 // add slash / at the end
-define('SITE_DIR', '/sample-php-website/');
+define('SITE_DIR', '/Simple Website/');
 
 // database prefix if you use
 define('DB_PREFIX', 'mp_');
