@@ -8,7 +8,7 @@
  */
 
 // dont add a trailing / at the end
-define('HTTP_SERVER', 'http://localhost');
+define('HTTP_SERVER', 'http://127.0.0.1');
 // add slash / at the end
 define('SITE_DIR', '/simple-website/');
 
